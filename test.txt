@@ -1,1 +1,1 @@
-delete git
+test delete and checkout
